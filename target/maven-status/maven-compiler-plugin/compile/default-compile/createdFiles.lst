@@ -1,0 +1,14 @@
+com\mycompany\veterinaria\Factura.class
+com\mycompany\veterinaria\Cliente.class
+com\mycompany\veterinaria\Empleado.class
+com\mycompany\veterinaria\Mascota.class
+com\mycompany\veterinaria\Consulta.class
+com\mycompany\veterinaria\HistotialClinico.class
+com\mycompany\veterinaria\Hospital.class
+com\mycompany\veterinaria\DetalleFactura.class
+com\mycompany\veterinaria\Persona.class
+com\mycompany\veterinaria\Animal.class
+com\mycompany\veterinaria\DetalleClinico.class
+com\mycompany\veterinaria\IAcciones.class
+com\mycompany\veterinaria\Veterinario.class
+com\mycompany\veterinaria\Producto.class
